@@ -1,0 +1,36 @@
+page-info {
+    .ion-content{
+        background-color: #02374e; 
+        background-color: transparent;
+    }
+    .h2-style{
+        background-color: cadetblue;
+    } 
+    .div-style{
+        background-color: darkgrey;
+        height: 30px;
+        padding-top: 10px;
+    }  
+
+    .profile-user-name{
+        margin: auto;
+    text-align: center;
+    color: #005a87; 
+    font-size: 15px;
+
+} 
+
+.balance-card{
+    //margin-top: 70px;
+    //padding-top: 18px; 
+    border-bottom-color: #003146;
+}  
+
+.myphoto {
+    img {
+    height: 70vh !important;
+    width: auto !important;
+    align-items: center;
+    }
+    }
+}

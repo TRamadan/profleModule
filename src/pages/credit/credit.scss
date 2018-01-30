@@ -1,0 +1,58 @@
+page-credit {
+    .ion-content{
+        
+    background-color: #003146;
+    } 
+
+/*
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+    
+    tr:nth-child(even){background-color: #f2f2f2}
+    
+    th {
+        background-color:gray;
+        color: white;
+    }  
+
+*/
+    
+    body {
+  font: normal medium/1.4 sans-serif;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 0.25rem;
+  border: 1px solid #ccc;
+}
+
+thead tr {
+  background-color: rgba(44, 62, 80,1.0);
+  color: rgba(236, 240, 241,1.0);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgba(52, 152, 219,1.0);
+}
+
+
+tbody tr:nth-child(even) {
+  background-color: rgba(241, 196, 15,1.0);
+}
+
+    
+    
+  
+
+
+}
