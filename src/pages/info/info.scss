@@ -1,36 +1,39 @@
 page-info {
     .ion-content{
         background-color: #02374e; 
-        background-color: transparent;
-    }
-    .h2-style{
-        background-color: cadetblue;
     } 
-    .div-style{
-        background-color: darkgrey;
-        height: 30px;
-        padding-top: 10px;
-    }  
 
     .profile-user-name{
         margin: auto;
-    text-align: center;
-    color: #005a87; 
-    font-size: 15px;
-
-} 
-
-.balance-card{
-    //margin-top: 70px;
-    //padding-top: 18px; 
-    border-bottom-color: #003146;
+        text-align: center;
+        color: goldenrod;
+        font-size: 22px;
 }  
 
-.myphoto {
-    img {
-    height: 70vh !important;
-    width: auto !important;
+.h1{
+    color :  #02374e;
+    text-align: center; 
+}
+
+.balance-card{ 
+    border-bottom-color: #003146;
+    padding-left: 20px;
+}  
+.round-img {
+    border-radius: 100%;
+    height: 24%;
+    width: 42%;
+    margin: auto;
+    display: block;
+}  
+
+.div-class{
     align-items: center;
-    }
-    }
+}
+.card-design{
+    
+    border: 1px solid;
+    box-shadow: 5px 10px;
+    border-radius: 25px;
+}
 }

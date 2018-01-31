@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { HomePage } from '../home/home';
 
 /**
  * Generated class for the CreditPage page.
@@ -20,6 +21,12 @@ export class CreditPage {
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad CreditPage');
+  } 
+
+  openfulldiscreption()
+  { 
+    this.navCtrl.push(HomePage);
+    console.log("hello");
   }
 
 }

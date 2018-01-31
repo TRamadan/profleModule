@@ -1,5 +1,22 @@
 page-relatives { 
     .ion-content{
         background-color: #003146;
-    }
+    } 
+
+    .profile-user-name{
+        margin: auto;
+    text-align: center;
+    color: goldenrod;
+    font-size: 22px;
+
+}  
+
+.round-img {
+    border-radius: 100%;
+    height: 24%;
+    width: 42%;
+    margin: auto;
+    display: block;
+}  
+
 }
